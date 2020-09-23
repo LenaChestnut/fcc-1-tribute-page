@@ -2,7 +2,7 @@
 
 This tribute page was made as suggested by the FreeCodeCamp curriculum.
 
-[Link to live page](https://lenachestnut.github.io/fcc-1-tribute-page/)
+[Link to live page](https://lenachestnut.github.io/fcc-tribute-page/)
 
 ## Project Objective
 
